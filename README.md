@@ -12,7 +12,10 @@
 </h2><br>
 
 <h3>
-  Aquí encontrarás una colección de ejercicios que cubren todos los aspectos esenciales del lenguaje SQL, categorizados de manera estratégica para ayudarte a desarrollar habilidades avanzadas en manipulación y consulta de bases de datos. Cada categoría cuenta con una   lista de tareas progresivas que van desde lo básico hasta lo avanzado, desafiándote a mejorar en cada paso.
+  Aquí encontrarás una colección de ejercicios que cubren todos los aspectos esenciales del lenguaje SQL, categorizados de manera estratégica para ayudarte a desarrollar habilidades avanzadas en manipulación y consulta de bases de datos. 
+
+  
+  Cada categoría cuenta con una   lista de tareas progresivas que van desde lo básico hasta lo avanzado, desafiándote a mejorar en cada paso.
 </h3><br>
 
 <h3>
@@ -25,38 +28,41 @@
   Estructura
 </h3>
 
-  - [ ] List item
+<h3>
+  1. Seleccionar columnas:
+</h3>
 
-1. Seleccionar columnas:
-- Tutorial.
-- Seleccionar todas las columnas de una tabla.
-- Seleccionar una columna de la tabla.
-- Seleccionar múltiples columnas de una tabla.
-- Asignar un alias a una columna con **"AS"**.
-- Asignar alias a múltiples columnas con **"AS"**.md
-- Asignar un alias con **"AS"** y comillas dobles.
+<ul>
+  <li>
+     Tutorial.
+  </li>
+  <li>
+    Seleccionar todas las columnas de una tabla.
+  </li>
+  <li>
+    Seleccionar una columna de la tabla.
+  </li>
+  <li>
+    Seleccionar múltiples columnas de una tabla.
+  </li>
+  <li>
+    Asignar un alias a una columna con "AS".
+  </li>
+  <li>
+    Asignar alias a múltiples columnas con "AS".md
+  </li>
+  <li>
+    Asignar un alias con "AS" y comillas dobles.
+  </li>
+</ul><br>
 
 
-## Progreso Actual 
+
+<h2>
+  Progreso Actual
+</h2> 
+
 
 Actualmente voy iniciando, ya terminé la primera etapa, día a día subiré mas código y mas avance.
-Mi SQL Interactivo 🚀🚀
-¡Bienvenido al repositorio Mi SQL Interactivo!
 
-Aquí encontrarás una colección de ejercicios que cubren todos los aspectos esenciales del lenguaje SQL, categorizados de manera estratégica para ayudarte a desarrollar habilidades avanzadas en manipulación y consulta de bases de datos. Cada categoría cuenta con una lista de tareas progresivas que van desde lo básico hasta lo avanzado, desafiándote a mejorar en cada paso.
 
-Cade mencionar que es mi paso día a día del curso de Desafío Latam de SQL Interactivo.
-
-Estructura
-Seleccionar columnas:
-Tutorial.
-Seleccionar todas las columnas de una tabla.
-Seleccionar una columna de la tabla.
-Seleccionar múltiples columnas de una tabla.
-Asignar un alias a una columna con “AS”.
-Asignar alias a múltiples columnas con “AS”.md
-Asignar un alias con “AS” y comillas dobles.
-Progreso Actual
-Actualmente voy iniciando, ya terminé la primera etapa, día a día subiré mas código y mas avance.
-
-Markdown 1002 bytes 159 words 25 lines Ln 3, Col 0HTML 801 characters 148 words 15 paragraphs
